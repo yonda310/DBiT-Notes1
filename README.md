@@ -395,7 +395,7 @@ Jupyter notebook code from: https://github.com/dyxmvp/Spatial_ATAC-seq
    12. In the menu,"Object" - "Ungroup" twice.
        <img width="1358" alt="Screen Shot 2023-06-28 at 9 52 30 PM" src="https://github.com/Shuozhen/DBiT-Notes/assets/25277637/76c9a706-4112-427a-a0c6-62d13f44f80b">
        <img width="1358" alt="Screen Shot 2023-06-28 at 9 52 37 PM" src="https://github.com/Shuozhen/DBiT-Notes/assets/25277637/fd929663-6a4a-4d75-8ea3-5966a2e6d821">
-   14. Select the spots not on tissue, change the border color
+   14. Lock image, select the spots not on tissue, change the border color
        <img width="1358" alt="Screen Shot 2023-06-28 at 9 55 52 PM" src="https://github.com/Shuozhen/DBiT-Notes/assets/25277637/d1262a39-b76a-4c81-a64e-6516421245ce">
    16. Delete the background figure layer temporately, and save the .SVG file (two-color spots only)
        <img width="1358" alt="Screen Shot 2023-06-28 at 10 03 33 PM" src="https://github.com/Shuozhen/DBiT-Notes/assets/25277637/da073617-6eb0-4aaa-af8c-e7075bd5a07a">
